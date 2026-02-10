@@ -31,3 +31,21 @@ semantic-search-pdf/
 ```bash
 git clone <repo-link>
 cd SemanticSearchEngine
+```
+
+2. Create and activate virtual environment
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application
+```bash
+streamlit run app.py
+```
+
