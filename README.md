@@ -13,7 +13,7 @@ A Streamlit-based web application that allows users to perform semantic search o
 - Streamlit
 - pdfplumber
 - Sentence Transformers
-- FAISS (or whichever index you used)
+- FAISS 
 
 ## Project Structure
 semantic-search-pdf/
